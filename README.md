@@ -2,7 +2,7 @@ Emarald Villas – Android Mobile Application
 
 📱 Project Overview
 
-Emrald Villas is an Android-based mobile application designed to make the villa booking process simple and user-friendly. The app allows users to register, log in, search for rooms, book rooms, and manage payments through an organized and easy-to-navigate interface.
+Emarald Villas is an Android-based mobile application designed to make the villa booking process simple and user-friendly. The app allows users to register, log in, search for rooms, book rooms, and manage payments through an organized and easy-to-navigate interface.
 
 This project is developed as an academic mini project using Android Studio and focuses on implementing core Android concepts such as activities, intents, local database storage, and user interaction.
 
